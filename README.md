@@ -12,4 +12,9 @@ Features:
 - If done correctly, the app shows you have logged in, otherwise it shows you have failed to log in.
 
 
-Future features planned:
+Optional Future changes:
+- Store the usernames+passwords in excel
+- Store the usernames+passwords in a database
+- Set requirements for the passwords
+- Set requirements for the usernames
+- Do not allow double usernames
